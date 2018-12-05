@@ -1,0 +1,237 @@
+<resources>
+    <string name="app_name">MEPE</string>
+    <string name="o_museu_titulo">O Museu</string>
+    <string name="exposicoes_titulo">Exposições</string>
+    <string name="colecoes_titulo">Coleções</string>
+    <string name="bibliotecas_titulo">Bibliotecas</string>
+    <string name="acontece_titulo">Acontece</string>
+    <string name="atividades_titulo">Atividades</string>
+    <string name="visite_titulo">Visite</string>
+    <string name="contato_titulo">Contato</string>
+
+    <!--CONTEUDOS-->
+    <string name="o_museu_conteudo">
+    \n O Museu do Estado de Pernambuco - MEPE foi criado em 1929, através do Ato 240, Lei pioneira no Nordeste e no Brasil, que autorizava o Governo a criar uma Inspetoria Estadual de Monumentos Nacionais e um Museu Histórico e de Arte Antiga, a ela subordinado. Em 1930, o Museu instalou-se na cúpula do Palácio da Justiça, na Praça da República, expondo, entre outras peças, a coleção de quadros do pintor pernambucano Telles Júnior.
+    \n
+    \n Em 1940, o Museu passa a ter suas instalações no Palacete do século XIX, localizado no bairro das Graças, um belo exemplar da arquitetura daquele século, antiga residência do Dr. Augusto Frederico de Oliveira, filho do Barão de Beberibe, onde funciona até hoje como um dos equipamentos culturais do Governo do Estado, gerenciado pela Fundação do Patrimônio Histórico e Artístico de Pernambuco (FUNDARPE), e possui um amplo e variado acervo de peças que constituem referenciais marcantes da história do Estado.
+    \n
+    \n
+    \n <b>INSTALAÇÕES FÍSICAS</b>
+    \n
+    \n O Museu do Estado de Pernambuco – MEPE ocupa uma área de 9.043 m2, com amplo estacionamento e jardins ornamentados com esculturas e vasos de cerâmica portuguesa. A entrada principal é guardada por dois grifos de bronze: cabeça de águia, corpo de leão e cauda de serpente. Duas estátuas de zuavos, isto é, soldados de infantaria francesa constituída na Argélia, cujo fardamento foi copiado por outras localidades, inclusive pelos voluntários da Pátria baianos que lutaram na Guerra do Paraguai (1865-1870), ladeiam a escadaria que nos leva ao terraço frontal do Museu, onde estão, em mármore, as Musas, que presidem as Artes: Memmosina, da memória e mais 7 das suas 9 filhas com Zeus, que são: Euterpe, da música; Polímmnnia, a musa da retórica; Erato, da poesia; Melpomene, da tragédia; Tália, da comédia; Clio da história; e Calliope, da Epopéia. No terraço lateral um canhão holandês, de bronze, com 3 metros de comprimento e, atrás do Museu 4 canhões da artilharia portuguesa, complementam a coleção de armaria.
+    \n
+    \n Além do Palacete, o MEPE abrange o Anexo I – Espaço Cícero Dias, com capacidadepara abrigar exposições de médio e grande porte e o Anexo II – uma casa onde são realizados cursos e oficinas de arte.
+    \n
+    \n Inaugurado em 2003, o Espaço Cícero Dias abriga no térreo, a exposição de longa duração e o auditório Joaquim Cardoso, onde são realizadas palestras, oficinas, debates e outros eventos ligados à cultura. O pavimento superior, além das galerias de exposições temporárias, abriga o Centro de Documentação Cícero Dias – biblioteca especializada em arte e história com mais de quatro mil volumes entre livros, catálogos e periódicos, alguns deles obras raras, como o livro de Gaspar Barlaeus, escrito em latim, que narra a história do governo de Maurício de Nassau em Pernambuco.
+    \n
+    \n Atualmente o acervo do Museu do Estado possui mais de catorze mil itens, agregando importantes coleções que se distribuem nas seguintes categorias: Arqueologia, Cultura Indígena, Presença Holandesa em Pernambuco, Arte Sacra, Cultura Afro-brasileira, Ex-votos, Iconografia, Mobiliário, Porcelana, Cristais e Pintura com telas de artistas como Cícero Dias, Telles Júnior, Francisco Brennand e Burle Marx.
+    \n
+    \n O acervo do MEPE é integrado por uma grande diversidade e fragmentação cultural representadas nas seguintes coleções. A coleção do comendador José Ferreira Baltar (1929). A coleção Liceu do Liceu Artes e oficio (1930) que remete ao Brasil Império. A coleção Brás Ribeiro, contendo porcelanas e exemplares de mobiliários do Brasil Colônia e Império. A coleção general Paulo Figueiredo, com material relacionado as civilizações pré-incaicas adquiridas na Bolívia em 1936. A coleção afro-brasileira com itens do culto afro do Xangô em Pernambuco. A coleção Lívio Teixeira contendo ex-votos e a coleção Carlos Estevão (1880-1946) reunindo 3.320 peças doadas ao Estado em 1947. Além dessas, o MEPE conta ainda com as seguintes coleções: Salões de Arte, Coleção Bandepe, Coleção Magdalena Arraes, Queralt, Coleção Roque de Brito Alves e a Coleção José Mariano.
+    \n
+    \n O Centro de Documentação Especializada em Arte, História, Antropologia e ciências correlatas e aberta ao público, a biblioteca conta com um acervo de cerca de 8.000 títulos, 2.100 catálogos de salões e de exposições individuais e coletivas de artistas plásticos; além de recortes de jornais, vídeos, documentos administrativos e impressos publicados pelo Museu do Estado de Pernambuco. Graças ao intercâmbio com outras instituições serve, também, aos artistas plásticos, informações de exposições, regulamentos e fichas de inscrição de salões de arte a se realizarem no País.
+    \n
+    </string>
+    <string name="exposicoes_conteudo">
+
+        \n <b> CONDENADOS À VIDA: 70 ANOS DE RAIMUNDO CARRERO </b>
+    \n
+    \n Um dos mais renomados escritores do País, Raimundo Carrero, ganha exposição comemorativa pelos seus 70 anos de vida. A mostra, sediada no Museu do Estado de Pernambuco (MEPE), vai ocupar a galeria Lula Cardoso Ayres e será dividida em quatro espaços: Beleza, Loucura, Paixão e Fé na obra de Carrero. A abertura da exposição acontecerá nesta terça-feira (13), com o lançamento de Condenados à Vida, coletânea editada pela Companhia Editora de Pernambuco – Cepe, que reúne quatro das principais obras do autor: Maçã agreste (1989), Somos pedras que se consomem (1995), O amor não tem bons sentimentos (2008) e Tangolomango (2013), cujo fio condutor é a nefasta família do patriarca Ernesto Cavalcante do Rego.
+    \n
+    \n Fonte:http://www.cultura.pe.gov.br
+    \n
+    \n
+        \n <b> AGRICULTURA DA IMAGEM </b>
+    \n
+    \n Depois de passar por São Paulo, Rio de Janeiro e Fortaleza, a exposição "Agricultura da Imagem", de Rodrigo Braga, finalmente chega ao Recife, mais precisamente aos salões do Museu do Estado. Sob curadoria de Daniel Rangel, a mostra terá vernissage no dia 1º de agosto a 14 de outubro e traz, através de fotografias e vídeos, a visão do fotógrafo distanciada da posição de predador. É possível perceber, nas obras, a construção da imagem.
+    \n
+    \n
+        \n <b> YPIRANGA </b>
+    \n
+    \n O Museu do Estado de Pernambuco sedia nesta quinta-feira, 09 de agosto ás 19h, o lançamento do livro e da exposição “Ypiranga”. Tanto a obra, publicada pela Cepe Editora e organizado por Lêda Régis, quanto a mostra, que reúne mais de 100 obras, traçam uma retrospectiva inédita sobre a obra do artista visual pernambucano Ypiranga Filho que, aos 82 anos, foi o pioneiro com o trabalho em metal em Pernambuco, nos anos 1960 e 1970, auge do modernismo e da predominância do figurativismo tropicalista no Estado.
+    \n
+    \n Todas as faces do prolífico Ypiranga podem ser lidas e vistas no livro “Ypiranga Filho”. A publicação ainda conta com cronologia biográfica, e elenca todas as exposições do artista, pouco conhecido nacionalmente.
+    \n
+    \n Na mostra expositiva, espelho tridimensional do livro, estarão presentes 11 esculturas, 22 desenhos, 14 pinturas e 53 gravuras, além das obras chamadas por Joana de Transbordamentos, que estarão impressas em um painel.
+    \n
+    \n
+        \n <b> XIX EXPO DE ARTES DO IMIP 2018 </b>
+    \n
+    \n O evento, que acontece anualmente, já está em sua 18ª edição consecutiva. Lá serão expostas fotografias, pinturas e esculturas de 128 artistas no total. A exposição contará com a participação de artistas como Gil Vicente, Zé Cláudio, Marianne Peretti, Tereza Costa Rego, Raul Córdula e Edgard Homem.
+    \n
+    \n A XVIII Exposição de Artes do IMIP traz uma diversidade de perfis e técnicas produzidas por nomes que estão despontando no mercado das artes plásticas. Metade do lucro obtido com a venda das obras irá diretamente para o IMIP. A curadoria é de Pedro Frederico, e a realização é da FAF e do IMIP, com apoio da Tatiana Marques Cerimonial e Eventos e FacForm Gráfica.
+    \n
+    \n
+        \n <b> DR. ALOISIO PROFISSÃO PALHAÇO OU E ARROCHA A NEGRADA </b>
+    \n
+    \n Através da literatura dramática, apresenta o texto para teatro Dr. Aluísio – profissão palhaço, escrito em coautoria com o dramaturgo baiano Romualdo Lisboa. Através da peça, resgata a fantástica história do seu tio Aluízio, pobre, negro e que cansado de ser humilhado, abandona o emprego de bancário para virar palhaço de circo, na esperança de aplacar a tristeza do mundo. O livro/catálogo e a exposição, que reúne 70 quadros inéditos relacionados ao tio e ao seu lúdico universo circense, ganham noite de lançamento/abertura na próxima quinta-feira (1º), às 19h, no MEPE.
+    \n
+    \n Com curadoria de João Câmara, o livro/catálogo reúne textos assinados por Raul Henry, Ariano Suassuna, João Câmara, Romualdo Lisboa, Weidson de Barros, Marcos Vinícius Vilaça, do próprio José de Moura e poemas Maria de Lourdes Hortas e Jaci Bezerra. Além de relacionar os quadros que compõem a exposição individual, a publicação traz ainda obras especialmente criadas por outros grandes nomes das artes plásticas, como Pragana, Maurício Arraes, Pedro Dias, Gil Vicente, João Câmara, entre outros.
+    \n
+    \n
+        \n <b> FRIDA E DIEGO: UM SORRISO NO FINAL DO CAMINHO </b>
+    \n
+    \n Unidos por quase vinte e cinco anos – desde o casamento em 1929, até a morte de Frida, em 1954 – a relação de Frida e Diego foi marcada por encontros e desencontros, por um amor e ódio, compartilhando e competindo ao mesmo tempo.
+    \n
+    \n Essa união abriu um caminho diferente nas relações pessoais da primeira metade do século XX, no México: a personalidade extrovertida e fantasiosa do Diego, ligada à personalidade introvertida e também fantasiosa de Frida, inauguraram um enredo e uma intriga quase explosiva.
+    \n
+    \n A exposição, composta por 96 fotografias, é uma aproximação íntima na vida do casal: o trabalho nos ateliês; as viagens e vida nos Estados Unidos; os encontros com personalidades do mundo político e artístico, incluindo Leon Trotsky e André Breton; a relação com artistas do México; assim como suas uniões conjugais, a dor e comprometimento físico da Frida, além de sua proximidade com a morte e a última foto do casal.
+    \n
+    \n As imagens são de autoria, em sua grande maioria, dos amigos do casal, como Manuel Álvarez Bravo, Nicholas Muray, Edward Weston, Guillermo Kahlo, Peter Jules, Guillermo Zamora e Juan Guzmán, compiladas pela primeira vez em uma exposição única criada pela Secretaria de Cultura do México, o Instituto Nacional de Bellas Artes e o Museo Casa Estúdio Diego Rivera e Frida Kahlo.
+    \n
+    \n
+        \n <b> CIDADES DO NORDESTE DO POTE À RUA - MÉTODOS CONSTRUTIVOS TRADICIONAIS </b>
+    \n
+    \n Para resgatar essa expressão urbana, o Conselho de Arquitetura e Urbanismo de Pernambuco (CAU/PE) realiza a exposição fotográfica “Cidades do Nordeste: do Pote à Rua – Métodos Construtivos Tradicionais”, no Museu do Estado de Pernambuco (MEPE). A mostra entra em cartaz nesta quinta-feira (26) e segue em cartaz até o dia 29 de novembro no equipamento cultural. A vernissage só para convidados está marcada para esta quarta-feira (25), às 19h. A mostra é uma prévia de publicação homônima que será lançada pelo Conselho, junto com a Companhia Editora de Pernambuco, no mês de novembro, trazendo a público pesquisa inédita finalizada em 1978 por equipe liderada pelas arquitetas e urbanistas Liana Mesquita e Neide Mota. O trabalho, que inaugura o projeto Memória Urbana do CAU/PE, se volta ao problema da habitação, resgatando sistemas construtivos tradicionais de baixo custo e baixo impacto, que correm o risco de desaparecer.
+    \n
+    \n
+        \n <b> PRECISÃO E ACASO - JOSÉ PATRÍCIO </b>
+    \n
+    \n O evento, que acontece das 17h às 19h, inclui um bate-papo com o artista e com o curador da mostra Felipe Scovino. O catálogo terá 300 exemplares distribuídos gratuitamente no local. A mostra, que conta com incentivo do Funcultura, reúne cerca de 40 obras produzidas pelo artista nos últimos sete anos – muitas já exibidas em feiras de arte, mostras coletivas e individuais no Brasil e no exterior, porém, na sua quase totalidade, inéditas no circuito artístico do Recife, além de outras do início de sua carreira nunca antes apresentadas.
+    \n
+    \n A última mostra individual de José Patrício na cidade aconteceu em 2006, na extinta Galeria Mariana Moura. De lá para cá, ele vem trilhando caminhos diversos, utilizando outros materiais, indo além dos dominós que se tornaram um ícone dentro de sua produção. Segundo Felipe Scovino, a exposição pode ser compreendida como uma espécie de antologia, termo que ele julga adequado por estar ligado à criação e produção de poesias, de imagens.
+    \n
+    \n Fonte: http://www.cultura.pe.gov.br
+    \n
+    \n
+        \n <b> PERNAMBUCO, TERRITÓRIO E PATRIMÔNIO DO POVO </b>
+    \n
+    \n Com curadoria dos antropólogos Raul Lody e Renato Athiasum, além de Margot Monteiro, arquiteta e gestora do MEPE, e Reinaldo Carvalho, design, artista plástico e responsável pela expografia, a mostra é uma verdadeira viagem no tempo, que apresenta a  história de Pernambuco, desde os primórdios, passando pela arqueologia, os povos tradicionais, a vinda dos Europeus em busca do Pau-Brasil, o ciclo do açúcar e a cultura-afro, finalizando com o Patrimônio Cultural de todas as influências étnicos-culturais.
+    \n
+    \n Para chegar ao resultado final da mostra, foram dois anos de pesquisa com uma equipe de profissionais de museologia e historiadores, que incluiu restaurações de peças, como a coleção Afro, quadros e mobiliários. Os restauros foram feitos na oficina de restauração do MEPE, por meio da Escola de Mestres Artífices. A iniciativa, que funciona no porão do Museu e que capacita estudantes das mais diferentes áreas no ofício de restauração de mobiliário, é patrocinada pelo Santander.
+    \n
+    \n A escolha do título da exposição está em sintonia com a história de Pernambuco, que ultrapassa as fronteiras territoriais, com forte relação não apenas com o Brasil, mas com diferentes países. Historicamente, Recife chegou a ser a região mais cosmopolita das Américas, e fora este fato, é um território que foi povoado por diferentes culturas, desde as primitivas até as mais civilizadas.
+    \n
+    \n Pernambuco Território e Patrimônio de um Povo destaca diferentes aspectos, que vão desde os elementos ambientais, sociais, econômicos, históricos e culturais. Nesta pluralidade, a mostra atende os mais diversos públicos, da criança ao adulto, do leigo ao acadêmico, do turista ao próprio pernambucano.
+    \n
+    \n Fonte: http://www.cultura.pe.gov.br
+    \n
+    \n
+        \n <b> RODOLFO MESQUITA- A FORMA CUSTA CARO </b>
+    \n
+    \n “O desenho de Rodolfo Mesquita é o trabalho que mais me emociona de toda produção gráfica jovem no Brasil”, disse o pintor João Câmara nos anos 70, época em que o artista plástico por ele referido começava não apenas a expor seus trabalhos, mas também a publicá-los em alguns dos jornais e revistas mais inconformistas do País, tanto no campo artístico como no político, a exemplo de O Pasquim, Movimento e Rolling Stones. E também em veículos não pertencentes à esfera alternativa, como a IstoÉ.
+    \n
+    \n Foi ainda nessa década que o artista foi apresentado pelo pintor e marchand Giuseppe Baccaro (durante certo tempo representante de Rodolfo no circuito cultural brasileiro) a Pietro Maria Bardi, fundador, junto com Assis Chateaubriand, do Museu de Arte de São Paulo, do qual foi também diretor por 45 anos. O entusiasmo de Bardi pela obra do pernambucano resultou em uma exposição individual no Masp, em 1976. Neste mesmo ano, participa do Salão Arte Agora, no Rio de Janeiro, conquistando prêmio de viagem à França, onde passa a viver e trabalhar. Um dos jornais que publicaram trabalhos seus foi o Libération.
+    \n
+    \n Em edição bilíngue (português e inglês), com 340 páginas e quase 300 imagens, o livro de arte Rodolfo Mesquita – A forma custa caro, que a Companhia Editora de Pernambuco (Cepe) é uma reunião inédita, ampla e profunda do legado do artista, que, ainda aos 10 anos, ganhou um concurso de desenho promovido pela rede pública de ensino de São Paulo.
+    \n
+    </string>
+    <string name="colecoes_conteudo">
+        \n <b> COLEÇÃO JOSÉ MARIANO </b>
+    \n
+    \n No dia 08 de agosto de 1850 nasceu José Mariano Carneiro da Cunha, na casa grande do engenho Caxangá, distrito de Ribeirão, na época pertencente ao município de Gameleira. Vem morar no Recife, e se forma em Direito em 1870, na mesma turma de Joaquim Nabuco. No Recife, José Mariano funda o jornal A Província, que representou um instrumento combativo, defendeu acirradamente a libertação dos escravos e muito influenciou a opinião pública. Além dele, uma pessoa de grande importância na comunidade era a sua esposa, a recifense Olegária da Costa Gama. Pela sua bondade e dedicação aos escravos, era apelidada de "mãe dos pobres" e "mãe do povo". José Mariano era considerado um orador comunicativo, um abolicionista corajoso, e um dos homens públicos que mais desfrutavam da simpatia popular em Pernambuco. Em decorrência de atritos com as ideias do Marechal Floriano Peixoto, ele foi preso em sua residência – no Poço da Panela – e trancafiado na fortaleza do Brum, sob a acusação de pactuar com a Revolta da Armada. José Mariano consegue ser libertado do calabouço e, como a população do Recife gostava muito dele, todas as ruas e casas, desde o cais do porto até o Poço da Panela ficaram ornamentadas e embandeiradas para saudar o retorno do abolicionista. No dia 24 de abril de 1898, em decorrência das complicações de uma gripe, morre Dona Olegarinha, a sua amada esposa. Os pernambucanos a divinizaram e muito se entristeceram com o sua morte. Fala-se que foram muitos os pretos que se suicidaram, envenenando-se ou jogando-se no Rio Capibaribe. Após tal dolorosa perda, José Mariano se afasta das lutas políticas. Em 1899, ele é nomeado Oficial do Registro de Títulos, pelo presidente Rodrigues Alves e também é presenteado com um Cartório de Títulos e Documentos, na Rua do Rosário, no Rio de Janeiro. Não muito tempo depois, José Mariano Carneiro da Cunha adoece e vem a falecer no dia 8 de junho de 1912. Seu corpo embalsamado foi transportado de navio para o Recife. No Estado, foi decretado luto por três dias e houve uma comoção geral em seu sepultamento. Esta Coleção, composta por 75 peças foi doada pela sua própria família, em 1988, sendo a obra de maior destaque nesta Coleção é o chamado “Berço de Ouro” de sua família.
+    \n
+    \n
+    \n <b> COLEÇÃO LÍVIO XAVIER </b>
+    \n
+    \n A Coleção Lívio Xavier é composta por uma tipologia de acervo conhecida como ex-votos – abreviação latina de ex-voto suscepto - "o voto realizado". O termo designa pinturas, estatuetas e variados objetos doados às divindades como forma de agradecimento por um pedido atendido. No caso do acervo desta coleção, encontram-se peças que foram recolhidas em santuários de peregrinação situados nos Estados de Pernambuco, Piauí, Paraíba e Ceará, durante o período de 1944 a 1970. Faz-se necessário destacar que foram poucas as informações ligadas ao título homenageado nesta Coleção, encontrando-se que Lívio Xavier Júnior formou-se em Direito na USP, em 1954, e exerceu a profissão em São Paulo. Anos depois trabalhou na ARTENE/SUDENE em Recife, e posteriormente montou a loja de artesanato Azulão, período em que o Museu adquiriu este acervo no ano de 1984. A maioria desse material é confeccionado em madeira, de nome umburama, com base de cedro e pinho, tendo sua aquisição feita através de compra, no ano de 1984, do próprio Lívio Xavier Junior.
+    \n
+    \n
+        \n <b> SALÕES DE ARTES DE PERNAMBUCO </b>
+    \n
+    \n No ano de 1942, o 1º Salão de Pinturas do Museu do Estado de Pernambuco foi instituído. No início, apenas pinturas a óleo eram apresentadas mas, com o passar do tempo, o Salão passou a receber trabalhos de outras categorias como esculturas, aquarelas, desenhos e gravuras e arquitetura. Em 1949, a partir do 8º Salão, foi aberta a possibilidade de inscrições, tanto para artistas locais, quanto para de outros Estados. O 28º Salão de Pinturas, em 1969, foi o último com este nome; em 1970 a 1975 deixou de ser realizado, retornando suas apresentações em 1976, com a denominação XXIX Salão Oficial de Arte, conservando esta denominação até 1979. De 1980 a 1986 recebeu o nome de Salão de Artes Plásticas de Pernambuco. O evento muda de nome em 1987, recebendo o título de Salão de Arte Contemporânea de Pernambuco, permanecendo com esta nomenclatura até 1992, último ano sua realização. Esta coleção apresenta uma grande variedade de tipologias e contém 221 peças.
+    \n
+    \n
+        \n <b> COLEÇÃO MAGDALENA ARRAES </b>
+    \n
+    \n Dona Magdalena Arraes nasceu em Fortaleza/CE, passou boa parte da juventude estudando na França retornando ao Brasil na década de 1960, quando em 1962 casou-se com Miguel Arraes de Alencar, mesmo ano em que foi eleito governador do Estado de Pernambuco pela primeira vez. A partir disso, sua trajetória esteve sempre ligada a Miguel Arraes, que esteve à frente do governo de Pernambuco por três vezes: 1962 a 1964; 1987 a 1990; 1995 a 1998. Magdalena Arraes passou a defender elementos da cultura brasileira, nordestina e pernambucana, colecionando obras artísticas de diferentes autores e com grande pluralidade de confecções. Sendo assim, a coleção Magdalena Arraes faz alusão a um conjunto de obras que vão desde pinturas a óleo sobre tela, litogravuras, nanquim, gravura em metal, dentre outras, as quais muito enriquecem o acervo do Museu do Estado de Pernambuco. Esta Coleção foi adquirida em 1991 e possui 28 peças.
+    \n
+    \n
+        \n <b> COLEÇÃO BANDEPE </b>
+    \n
+    \n O Banco de Desenvolvimento do Estado de Pernambuco – Bandepe - foi fundado em 1966 pelo então, governador do Estado Paulo Pessoa Guerra, ao qual substituíra Arraes, cassado em 1964. Inicialmente, esse Banco tinha como objetivo criar condições de desenvolver ações ligadas ao polo industrial, agrícola e da pecuária. No entanto, a partir da década de 1990, o Brasil entrou numa era de privatizações e um forte movimento político foi favorável a venda do Bandepe; desta maneira, no ano de 1998, o referido banco foi à venda através de um leilão Com a concretização da venda, o Banco, que possuía um setor ligado à área cultural, resolveu por doar parte de seu acervo artístico ao Museu do Estado de Pernambuco, em 1998, Composta por 196 obras com uma grande variedade artística, a coleção possui pinturas, desenhos, esculturas, jarros, gravuras, fotografias e serigrafia. Além destas tipologias, o Museu recebeu da mesma instituição três mil peças heráldicas – moedas e medalhas – sendo estas recebidas no ano de 2002.
+    \n
+    \n
+        \n <b> COLEÇÃO RICARDO BRENNAND </b>
+    \n
+    \n Ricardo Coimbra de Almeida Brennand nasceu no dia 27 de maio de 1927, na Usina Santo Inácio, no município do Cabo de Santo Agostinho, em Pernambuco; originário de uma família inglesa, filho de Dulce Coimbra de Almeida Brennand e de Antônio Luiz de Almeida. Aos quatro anos de idade, porém, veio morar no engenho São João, no bairro da Várzea, na cidade do Recife. Toda a sua educação, cabe salientar, foi sempre acompanhada por uma preceptora que, entre outras coisas, lhe ensinou a falar fluentemente as línguas inglesa e alemã. Aos 12 anos de idade ganhou um canivete do seu tio de mesmo nome e, desde então, passou a colecionar armas. Em 1949, ele concluiria os cursos de engenharia civil e engenharia mecânica, ambos na Universidade Federal de Pernambuco. Naquele mesmo ano casa-se com Graça Maria Monteiro. O casal teve oito filhos.
+    \n
+    \n Em 2009, Ricardo Brennand e sua esposa Graça Maria fizeram a doação desta importante Coleção composta de 70 peças em porcelana, todas em bom estado, com destaque especial a seus pratos brasonados e serviços de mesa D. João VI e D. Pedro I.
+    \n
+    \n
+        \n <b> COLEÇÃO AFRO DO XANGÔ EM PERNAMBUCO </b>
+    \n
+    \n Poucas são as informações a respeito da biografia do General Paulo Figueiredo, constando apenas que foi responsável pelo comando da 8º Infantaria de Brigada Motorizada – Infantaria Manoel Marques de Souza – no período que vai entre 12 de março de 1946 até 20 de julho do mesmo ano. Segundo informações provenientes do arquivo do Museu do Estado de Pernambuco, o General fez a doação de sua coleção no ano de 1952, quando já não fazia parte do comando da referida brigada. No seu acervo encontram-se variadas peças de prata, madeira ou cobre, na maioria pré-incaicas dos Andes adquiridas na Bolívia em 1936. Destas, a maioria são peças laminadas, com cabo em formato antropomórfico e zoomórfico, todos provenientes do Povo Tiaunaco. Além delas são a coleção possui vasos em madeira, não possuindo, porém, nenhuma informação a respeito da etnia a qual pertencem.A Coleção Afro-brasileira chegou ao Museu do Estado de Pernambuco por via da Secretaria de Segurança Pública de Pernambuco, entre 1938 e 1940. Boa parte desta Coleção é composta por objetos apreendidos em decorrência da repressão policial a manifestações culturais de origem africana, as quais eram associadas à criminalidade durante o início do período denominado Era Vargas. Na época que foi adquirida, o Museu do Estado de Pernambuco estava fechado e suas obras se encontravam na Biblioteca Pública do Estado, sob a direção do Dr. Olimpio Costa Junior. Segundo Raul Lody, “a Coleção apresenta um valioso conjunto de objetos que passaram pelos seus espaços sagrados e que assumiram suas marcas religiosas para importantes momentos da vida dos terreiros de Xangô”. As 307 peças desta Coleção são, na maioria, raras, quer pela singularidade de sua confecção, quer pelo seu uso, visto que muitas delas hoje não são mais encontradas nos terreiros de Xangô. Elas assumem valor estético, depondo as técnicas e os conhecimentos, no entanto, o valor mais significativo é o antropológico, situando o fazer e o pensamento do homem.
+    \n
+    \n
+        \n <b> COLEÇÃO CARLOS ESTEVÃO </b>
+    \n
+    \n Carlos Estevão de Oliveira nasceu em 30 de abril de 1880, na cidade de Olinda, em Pernambuco. Formou-se em direito, em 1907, pela Faculdade de Direito do Recife. Casou-se com Maria Izabel Porto Carneiro, com quem teve três filhos, Antonio Carlos, Lygia e Dalmo Estevão. Em 1908 mudou-se para o Pará, tornando-se procurador de Justiça em Alenquer; em 1913 mudou-se para Belém onde ocupou vários cargos públicos, até ser nomeado como Diretor do Museu Paraense Emílio Goeldi. Antes de falecer, em 05 de junho de 1946, Carlos Estevão oficializou a família o seu desejo de doar parte de sua Coleção etnográfica e arqueológica, adquirida entre 1908 e 1946, ao Estado de Pernambuco. Assim, em 10 de julho de 1947, a Coleção passou a fazer parte do acervo do Museu do Estado de Pernambuco, recebendo o nome de seu colecionador. Vale ressaltar, que Lygia Estevão de Oliveira – filha do antropólogo – tornou-se funcionária do Museu do Estado de Pernambuco no mesmo ano da doação desta Coleção e até sua aposentadoria foi responsável por esse acervo atuando como curadora.
+    \n
+    \n A Coleção começou com um Muiraquitã (que significa “Nó de madeira” ou “Nó das árvores”), um amuleto com poderes sobrenaturais, geralmente, oferecido ao visitante da aldeia. É constituída por um rico conteúdo etnográfico, diversificadas em suas características estéticas e culturais, como também na variedade de seus temas. Essas peças estão divididas em várias categorias, representando mais de cinquenta povos indígenas da América do Sul, sobretudo do Brasil.
+    \n
+    \n
+        \n <b> COLEÇÃO BRÁS RIBEIRO </b>
+    \n
+    \n Pernambucano, filho de Dona Elvira Rabello Ribeiro e Sinhorzinho Ribeiro, Brás Ribeiro foi um colecionador de peças antigas e objetos preciosos. Os móveis e as porcelanas eram sua principal especialidade. Exerceu funções de Conservador e Intendente, como funcionário público do Museu Histórico e de Arte Antiga, conhecido hoje como Museu do Estado de Pernambuco.
+    \n
+    \n A Coleção Brás Ribeiro chegou a este Museu, através de uma desapropriação realizada pelo decreto nº 1338 de 09 de abril de 1946. Tendo sido oficializada apenas em 1950 e inaugurada sua exposição específica em 16 de janeiro de 1951. O artista plástico Manoel Bandeira, juntamente com o Diretor do Museu do Estado de Pernambuco na época, o Dr. José Maria de Albuquerque Melo influenciaram o governo a adquirir esta Coleção e incorporá-la ao Acervo do Museu, sendo ela uma das principais coleções, que é constituída de mobiliário e objetos dos períodos Colonial e Imperial do Brasil.
+    \n
+    \n
+        \n <b> COLEÇÃO LICEU DE ARTES E OFICIOS </b>
+    \n
+    \n Fundado em 1836, o Liceu de Artes e Ofícios possuía um museu e uma rica biblioteca da história pernambucana do século XIX, uma belíssima coleção de quadros a óleo de personagens brasileiras de autoria de Augusto Rooth e Telles Júnior, além de um gabinete de peças de História Natural.
+    \n
+    \nPor decisão tomada em sessão do Conselho do Liceu e solicitação do Dr. Aníbal Fernandes, em 1930 o Museu do Estado de Pernambuco adquiriu esta Coleção por meio de uma transferência em caráter de doação. Faz parte desta coleção, quadros dos Imperadores D. Pedro I e D. Pedro II e suas respectivas esposas, D. Leopoldina e D. Teresa Cristina, além de mais dois quadros de um dos maiores pintores paisagistas pernambucanos do Século XIX, Jerônimo José Telles Júnior. Consta ainda desta coleção, um rico acervo do mobiliário do século XIX, com total de 127 peças.
+    \n
+    </string>
+    <string name="bibliotecas_conteudo">
+    \n
+    \n O Centro de Documentação Cícero Dias dispõe de um acervo com mais de 10.000 mil publicações especializadas em artes plásticas, arquitetura, fotografia, história do Brasil e, em especial , a história de Pernambuco, as quais se encontram diversificadas em livros, catálogos, revistas, CDs, DVDs ,entre outros suportes disponíveis para o público.
+    \n
+    \n
+        \n <b> O ACERVO </b>
+    \n
+    \n Algumas obras importantes se destacam no acervo como: 1. Brasil que Nassau Conheceu - gravuras da edição original da obra de Gaspar Barlaeus publicada em Amsterdam em 1647, publicada pela Secretaria de Educação e Cultura de Pernambuco em 1979; 2. Imagens de Vilas e Cidades no Brasil Colonial de Nestor Goulart Reis; 3. Atlas Histórico Cartográfico do Recife de José Luiz da Mota Menezes.
+    \n
+    \n O Centro de Documentação Cícero Dias possui um bom acervo em recortes de jornais como: a biografia de artistas pernambucanos, a história da cidade do Recife, museus em Pernambuco e o Patrimônio histórico e cultural, entre outros documentos. Possui também plantas e mapas do Recife e seus arredores, reproduções fotográficas do Recife do séc. XIX assim como uma extensa documentação histórica sobre os salões de arte de Pernambuco desde 1942.
+    \n
+    \n Horário de Funcionamento: Terça à sexta feira das 9 às 17 h.
+    \n
+    \n Fone: (81) 3184-3179
+    \n
+    \n E-mail: biblioteca.mepe@gmail.com
+    \n
+    \n Bibliotecário responsável: Kleiton Predo
+    \n
+
+    </string>
+    <string name="acontece_conteudo">
+        \n <b> 08 de Dezembro de 2018 </b>
+        \n
+        \n <b> Projeto Ouvindo e Fazendo Música no MEPE: Benjamin Sung </b>
+        \n
+        \n Professor assistente da Florida State University, é também Spalla da Orquestra Sinfônica Fargo-Moorhead. Recitalista e camerista ativo, participou do Brevard Music Festival 2012 e o XIII Festival e Academia del Nuevo Mundo em Maracaibo. Como membro da Academia de Lucerna, tocou sob regência de Pierre Boulez. Em 2005, apresentou-se no Carnegie Hall na estreia da Sinfonia de Câmara de John Adams. Entusiasta da música contemporânea é membro do Arsenal Trio. Doutor pela Universidade de Indiana, foi spalla da Orquestra Sinfônica de Montgomery e é diretor artístico do ClefWorks, Festival de Música de Câmara de Montgomery.
+        \n
+    </string>
+    <string name="atividades_conteudo">
+    \n
+    \n NO MOMENTO NÃO TEMOS ATIVIDADES CADASTRADAS!
+    \n
+    </string>
+    <string name="visite_conteudo">
+        \n Terça a sexta-feira: <b>10h às 17h</b>
+        \n Sábados e domingos: <b>14h às 17h</b>
+    \n
+    \n Atendimento administrativo e da
+    \n Biblioteca: 2ª a 6ª feira - das 8h30 às 17h.
+    \n
+        \n Entrada: <b>R$ 6,00</b>
+        \n Meia entrada: <b>R$ 3,00</b>
+    \n
+    \n Meia-entrada para estudantes,
+    \n professores e idosos acima de 60 anos.
+    \n
+    </string>
+    <string name="contato_conteudo">
+        \n <b>Museu do Estado de Pernambuco</b>
+        \n Avenida Rui Barbosa, 960 - Graças
+        \n CEP: 52011-040 - Recife - PE
+        \n
+        \n +55 81 3184.3170 <b>(Administração)</b>
+        \n +55 81 3184.3174 <b>(Visitação)</b>
+        \n <b>museu.mepe@gmail.com</b>
+        \n
+        \n
+        \n
+    </string>
+</resources>
