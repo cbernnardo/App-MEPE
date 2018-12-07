@@ -17,3 +17,15 @@ PROFESSOR DIÓGENES RICARDO FREITAS DE OLIVEIRA <br>
 
 ### Documentação do Aplicativo
 
+<b>1. Ferramentas utilizadas para o Desenvolvimento:</b>
+- Android Studio 3.2.1
+- Java e XML
+
+<b>2. Dispositivos utilizados para o teste do Aplicativo:</b>
+- Dispositivo 1: Modelo moto x4, Android 8.0.0, Kernel 4.4.78
+- Dispositivo 2: Modelo LG-D337, Android 5.0.2, Kernel 3.10.54+
+
+<b>3. Direitos Autorais:</b>
+- Desenvolvimento do Aplicativo: Cláudio Bernardo
+- Os textos e Imagens contidas no Aplicativo são de Direitos Autorais do
+site www.museudoestadope.com.br .
