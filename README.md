@@ -34,7 +34,10 @@ site www.museudoestadope.com.br .
 
 ## Demonstração do Aplivativo
 
+- Dispositivo 1: Modelo moto x4, Android 8.0.0, Kernel 4.4.78
+- Dispositivo 2: Modelo LG-D337, Android 5.0.2, Kernel 3.10.54+
+
 <p align="center">
-<img src="" width="" height="">
-<img src="" width="" height"">
+<img src="images/Dispositivo%201.gif">
+<img src="images/Dispositivo%202.gif">
 </p>
