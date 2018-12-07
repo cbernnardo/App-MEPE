@@ -15,7 +15,8 @@ PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS <br>
 COORDENADOR EDUARDO ARRUDA <br>
 PROFESSOR DIÓGENES RICARDO FREITAS DE OLIVEIRA <br>
 
-### Documentação do Aplicativo
+
+## Documentação do Aplicativo
 
 <b>1. Ferramentas utilizadas para o Desenvolvimento:</b>
 - Android Studio 3.2.1
@@ -29,3 +30,11 @@ PROFESSOR DIÓGENES RICARDO FREITAS DE OLIVEIRA <br>
 - Desenvolvimento do Aplicativo: Cláudio Bernardo
 - Os textos e Imagens contidas no Aplicativo são de Direitos Autorais do
 site www.museudoestadope.com.br .
+
+
+## Demonstração do Aplivativo
+
+<p align="center">
+<img src="" width="" height="">
+<img src="" width="" height"">
+</p>
