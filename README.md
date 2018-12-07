@@ -1,9 +1,7 @@
-<p align="left">
-<img src="images/logoapp.jpg" width="200" height="200">
-</p>
-<p align="right">
-<img src="http://www.artesanatodepernambuco.pe.gov.br/site_artesanato_images/images/footer_logo_governope_2x.png" width="" height"150">
-</p>
+<p align="center">
+<img src="http://www.artesanatodepernambuco.pe.gov.br/site_artesanato_images/images/footer_logo_governope_2x.png" width="" height"150"></p>
+<p align="center">
+<img src="images/logoapp.jpg" width="200" height="200"></p>
 
 # Museu do Estado de Pernambuco - MEPE
 
