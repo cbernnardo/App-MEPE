@@ -1,6 +1,5 @@
 <p align="center">
 <img src="images/logoapp.jpg" width="200x" height="200">
-<img src="http://www.educacao.pe.gov.br/portal/upload/galeria/523/arteead.jpg" width="" height="200">
 <img src="http://www.artesanatodepernambuco.pe.gov.br/site_artesanato_images/images/footer_logo_governope_2x.png" width="" height"100">
 </p>
 
