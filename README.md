@@ -4,7 +4,7 @@
 <img src="images/logoapp.jpg" width="200" height="200"></p>
 
 [![](https://img.shields.io/badge/site-Governo--do--Estado--de--PE-blue.svg?logo=appveyor&style=for-the-badge
-)]() [![](https://img.shields.io/badge/site-Android--Developers-green.svg?logo=appveyor&style=for-the-badge)](https://developer.android.com/?hl=pt-br)
+)](http://www.pe.gov.br/) [![](https://img.shields.io/badge/site-Museu--do--Estado--de--PE-lightgrey.svg?logo=appveyor&style=for-the-badge)](http://www.museudoestadope.com.br/) [![](https://img.shields.io/badge/site-Android--Developers-green.svg?logo=appveyor&style=for-the-badge)](https://developer.android.com/?hl=pt-br)
 
 
 
