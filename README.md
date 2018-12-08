@@ -3,6 +3,11 @@
 <p align="center">
 <img src="images/logoapp.jpg" width="200" height="200"></p>
 
+![https://developer.android.com/?hl=pt-br](https://img.shields.io/badge/site-Android--Developers-green.svg?logo=appveyor&style=for-the-badge)
+
+
+
+
 # Museu do Estado de Pernambuco - MEPE
 
 ## Aplicativo para Dispositivo Móvel Android
