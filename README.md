@@ -3,10 +3,8 @@
 <p align="center">
 <img src="images/logoapp.jpg" width="200" height="200"></p>
 
-[![](https://img.shields.io/badge/site-Android--Developers-green.svg?logo=appveyor&style=for-the-badge)](https://developer.android.com/?hl=pt-br)
-
-<a href="https://developer.android.com/" target="_blank">
-<img src="https://img.shields.io/badge/site-Android--Developers-green.svg?logo=appveyor&style=for-the-badge" /></a>
+[![](https://img.shields.io/badge/site-Governo--do--Estado--de--PE-blue.svg?logo=appveyor&style=for-the-badge
+)]() [![](https://img.shields.io/badge/site-Android--Developers-green.svg?logo=appveyor&style=for-the-badge)](https://developer.android.com/?hl=pt-br)
 
 
 
