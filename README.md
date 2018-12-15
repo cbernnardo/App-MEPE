@@ -17,7 +17,7 @@ Atividade da Disciplina do Curso Desenvolvimento de Sistemas.
 
 Escola Técnica Estadual Alcides do Nascimento Lins <br>
 Curso Técnico de Desenvolvimento de Sistemas <br>
-PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS <br>
+Programação para Dispositivos Móveis <br>
 COORDENADOR EDUARDO ARRUDA <br>
 PROFESSOR DIÓGENES RICARDO FREITAS DE OLIVEIRA <br>
 
