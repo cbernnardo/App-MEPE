@@ -19,7 +19,7 @@ Escola Técnica Estadual Alcides do Nascimento Lins <br>
 Curso Técnico de Desenvolvimento de Sistemas <br>
 Programação para Dispositivos Móveis <br>
 Coordenador Eduardo Aruuda <br>
-PROFESSOR DIÓGENES RICARDO FREITAS DE OLIVEIRA <br>
+Professor Diógenes Ricardo Freitas de Oliveira <br>
 
 
 ## Documentação do Aplicativo
